@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.hexplayer{
+  max-width: 400px;
+  object-fit: contain;
+}
+
 .footer {
   display: flex;
   flex: 1;
